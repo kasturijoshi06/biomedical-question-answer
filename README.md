@@ -1,4 +1,4 @@
-# biomedical-question-answering
+## BIOMEDICAL QUESTION ANSWERING
 A biomedical question answering system using BERT to generate concise and reliable answers, helping save user's time and efforts to read huge text
 
 Instructions and Requirements :
