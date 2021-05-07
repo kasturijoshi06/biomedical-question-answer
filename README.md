@@ -8,5 +8,5 @@ Instructions and Requirements :
 3. Install and import the following libraries : 
 pandas, nltk, tensorflow, transformers, wordcloud, numpy 
 4. Hit ctrl + Enter for each cell or from the cell drop down hit run all 
-5. For running the code, download the dataset from here :
+5. For running the code, download the dataset from here : https://drive.google.com/drive/u/0/folders/1V39robd1p0pPcCmdJVg8uZz5BP-vuBgC
 Upload it to your Google drive and then change the path in the cell where the data is read (also mentioned in the notebook)
